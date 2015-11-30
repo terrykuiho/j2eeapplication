@@ -4,7 +4,7 @@
   <artifactId>j2eeapplication</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>J2EE Appications Example</name>
+  <name>J2EE Appications Example 1123</name>
   
   <repositories>
      <repository>
